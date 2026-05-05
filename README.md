@@ -15,11 +15,10 @@ The interface is clean, responsive, and features a dark colour scheme.
 
 ## 🖥️ Screenshot
 
-*(Add a screenshot of your calculator here – optional but recommended)*
 
 ## 🚀 How to Run
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/tkinter-calculator.git
+   git clone https://github.com/SachinKumar-IT/tkinter-calculator.git
    cd tkinter-calculator
