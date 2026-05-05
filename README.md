@@ -17,7 +17,7 @@ The interface is clean, responsive, and features a dark colour scheme.
 <img width="858" height="946" alt="image" src="https://github.com/user-attachments/assets/2c90f352-fb18-4c05-8000-23a2fa5b88f1" />
 
 
-## 🚀 How to Use
+## 🚀 How to Run
 
 1. **Clone the repository**  
    ```bash
