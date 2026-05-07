@@ -9,7 +9,7 @@ The interface is clean, responsive, and features a dark colour scheme.
 - Basic operations: `+`, `-`, `*`, `/`, `%`
 - Clear (`C`) button to reset the input.
 - Decimal (`.`) support.
-- Error handling for invalid expressions (displays "error")
+- Error handling for invalid expressions (displays "error").
 - Fixed window size (570×600) – no resizing
 - Dark theme with colourful buttons
 
